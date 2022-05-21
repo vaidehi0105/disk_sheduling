@@ -1,0 +1,11 @@
+.nav-bar h1{
+    font-size: 33px;
+}
+.btn{
+    color: whitesmoke;
+    background-color: black;
+}
+.btn:hover{
+    color: rgb(42, 39, 46);
+    background-color: rgb(27, 206, 7);
+}
